@@ -49,5 +49,6 @@ TRANSLATIONS = \
     $$TR_DIR/assistant_ja.ts \
     $$TR_DIR/assistant_pl.ts \
     $$TR_DIR/assistant_ru.ts \
+    $$TR_DIR/assistant_uk.ts \
     $$TR_DIR/assistant_zh_CN.ts \
     $$TR_DIR/assistant_zh_TW.ts

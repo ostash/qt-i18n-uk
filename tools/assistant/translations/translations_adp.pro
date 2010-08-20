@@ -37,5 +37,6 @@ TRANSLATIONS = \
     $$TR_DIR/assistant_adp_ja.ts \
     $$TR_DIR/assistant_adp_pl.ts \
     $$TR_DIR/assistant_adp_ru.ts \
+    $$TR_DIR/assistant_adp_uk.ts \
     $$TR_DIR/assistant_adp_zh_CN.ts \
     $$TR_DIR/assistant_adp_zh_TW.ts

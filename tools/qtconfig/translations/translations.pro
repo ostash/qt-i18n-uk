@@ -11,5 +11,6 @@ TR_DIR = $$PWD/../../../translations
 TRANSLATIONS = \
     $$TR_DIR/qtconfig_pl.ts \
     $$TR_DIR/qtconfig_ru.ts \
+    $$TR_DIR/qtconfig_uk.ts \
     $$TR_DIR/qtconfig_zh_CN.ts \
     $$TR_DIR/qtconfig_zh_TW.ts

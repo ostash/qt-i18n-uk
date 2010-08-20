@@ -30,5 +30,6 @@ TR_DIR = $$PWD/../../../translations
 TRANSLATIONS = \
     $$TR_DIR/qvfb_pl.ts \
     $$TR_DIR/qvfb_ru.ts \
+    $$TR_DIR/qvfb_uk.ts \
     $$TR_DIR/qvfb_zh_CN.ts \
     $$TR_DIR/qvfb_zh_TW.ts
