@@ -1796,14 +1796,6 @@ to
 <context>
     <name>QDeclarativeImportDatabase</name>
     <message>
-        <source>cannot load module &quot;%1&quot;: File name case mismatch for &quot;%2&quot;</source>
-        <translation>неможливо завантажити модуль &quot;%1&quot;: Регістр імені файлу не збігається для &quot;%2&quot;</translation>
-    </message>
-    <message>
-        <source>module &quot;%1&quot; definition &quot;%2&quot; not readable</source>
-        <translation>неможливо прочитати визначення &quot;%2&quot; модуля &quot;%1&quot;</translation>
-    </message>
-    <message>
         <source>plugin cannot be loaded for module &quot;%1&quot;: %2</source>
         <translation>неможливо завантажити додаток для модуля &quot;%1&quot;: %2</translation>
     </message>
@@ -1856,8 +1848,8 @@ to
         <translation>не є типом</translation>
     </message>
     <message>
-        <source>File name case mismatch for &quot;%2&quot;</source>
-        <translation>Регістр імені файлу не збігається для &quot;%2&quot;</translation>
+        <source>File name case mismatch for &quot;%1&quot;</source>
+        <translation>Регістр імені файлу не збігається для &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -8202,15 +8194,11 @@ Do you want to overwrite it?</source>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
